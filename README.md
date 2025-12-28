@@ -1,5 +1,5 @@
 # 💫 About Me:
-Dhyanvi Technology PVT, LTD
+Dhyanvi Technology Pvt, Ltd.
 
 
 # 💻 Tech Stack:
